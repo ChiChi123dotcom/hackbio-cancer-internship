@@ -2,7 +2,7 @@
 
 **Stage 2 task: P53 modeling** 
 
-**Contributors:** Oluchi Onyemeh, Pranjal Paul, Natasha Murape, Evans Boakye , Idoko obinna 
+**Contributors:** Pranjal Paul, Oluchi Onyemeh, Natasha Murape, Evans Boakye , Idoko obinna 
 
 **Introduction** 
 
